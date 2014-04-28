@@ -1,5 +1,5 @@
 {
-  "name": "emitter",
+  "name": "component-emitter",
   "description": "Event emitter",
   "keywords": [
     "emitter",
@@ -8,7 +8,7 @@
   "version": "1.1.2",
   "license": "MIT",
   "main": "index.js",
-  "homepage": "https://github.com/component/emitter",
+  "homepage": "https://github.com/sjlu/emitter",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -16,6 +16,13 @@
     "test",
     "Makefile",
     "package.json",
-    "component.json"
+    "component.json",
+    "tests"
+  ],
+  "authors": [
+    "Steven Lu <tacticalazn@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
   ]
 }
